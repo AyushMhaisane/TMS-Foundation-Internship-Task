@@ -1,5 +1,6 @@
 # TMS Foundation: Web Development Assessment
-**Candidate:** [Your Name]  
+**Candidate:** Ayush Mhaisane  
+**Mail:** ayushmhaisane25@gmail.com
 **Submission Date:** January 7, 2026
 
 ---
